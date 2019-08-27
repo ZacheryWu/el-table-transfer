@@ -72,3 +72,5 @@ export default {
 }
 </script> 
 ```
+
+npm地址： [https://www.npmjs.com/package/el-table-transfer](https://www.npmjs.com/package/el-table-transfer)
